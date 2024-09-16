@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @louislinghc
 - 👀 I’m interested in everything that is related to security.
-- 🌱 I’m currently learning how to use this github.
 - 💞️ I’m looking to collaborate on everything that is related to security.
 - 📫 How to reach me ... leave a message here!
 
